@@ -40,7 +40,7 @@ replace (
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.0
 	github.com/MakeNowJust/heredoc v1.0.0 // indirect
-	github.com/Masterminds/semver v1.5.0 // indirect
+	github.com/Masterminds/semver v1.5.0
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/Masterminds/sprig v2.22.0+incompatible // indirect
 	github.com/Shopify/logrus-bugsnag v0.0.0-20171204204709-577dee27f20d // indirect
@@ -61,9 +61,8 @@ require (
 	github.com/garyburd/redigo v1.6.2 // indirect
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-openapi/spec v0.19.4 // indirect
-	github.com/go-redis/redis v6.15.9+incompatible
-	github.com/go-redis/redis/v8 v8.10.0 // indirect
-	github.com/go-redis/redismock/v8 v8.0.6 // indirect
+	github.com/go-redis/redis/v8 v8.10.0
+	github.com/go-redis/redismock/v8 v8.0.6
 	github.com/gofrs/uuid v4.0.0+incompatible // indirect
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.6
@@ -74,7 +73,7 @@ require (
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/heptiolabs/healthcheck v0.0.0-20180807145615-6ff867650f40
 	github.com/improbable-eng/grpc-web v0.14.0
-	github.com/itchyny/gojq v0.12.4
+	github.com/itchyny/gojq v0.12.8
 	github.com/jinzhu/copier v0.3.2
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0 // indirect
 	github.com/kubeapps/common v0.0.0-20200304064434-f6ba82e79f47
