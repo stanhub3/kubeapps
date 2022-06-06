@@ -40,7 +40,7 @@ replace (
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.0
 	github.com/MakeNowJust/heredoc v1.0.0 // indirect
-	github.com/Masterminds/semver v1.5.0 // indirect
+	github.com/Masterminds/semver v1.5.0
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/Masterminds/sprig v2.22.0+incompatible // indirect
 	github.com/Shopify/logrus-bugsnag v0.0.0-20171204204709-577dee27f20d // indirect
@@ -48,22 +48,20 @@ require (
 	github.com/bshuster-repo/logrus-logstash-hook v1.0.2 // indirect
 	github.com/bugsnag/bugsnag-go v2.1.1+incompatible // indirect
 	github.com/bugsnag/panicwrap v1.3.2 // indirect
-	github.com/containerd/containerd v1.4.6
+	github.com/containerd/containerd v1.5.13
 	github.com/deislabs/oras v0.11.1
 	github.com/desertbit/timer v0.0.0-20180107155436-c41aec40b27f // indirect
 	github.com/disintegration/imaging v1.6.2
 	github.com/distribution/distribution v2.7.1+incompatible
 	github.com/docker/cli v20.10.7+incompatible // indirect
 	github.com/docker/docker v20.10.7+incompatible // indirect
-	github.com/docker/go-metrics v0.0.1 // indirect
 	github.com/docker/libtrust v0.0.0-20160708172513-aabc10ec26b7 // indirect
 	github.com/emicklei/go-restful v2.15.0+incompatible // indirect
 	github.com/garyburd/redigo v1.6.2 // indirect
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-openapi/spec v0.19.4 // indirect
-	github.com/go-redis/redis v6.15.9+incompatible
-	github.com/go-redis/redis/v8 v8.10.0 // indirect
-	github.com/go-redis/redismock/v8 v8.0.6 // indirect
+	github.com/go-redis/redis/v8 v8.10.0
+	github.com/go-redis/redismock/v8 v8.0.6
 	github.com/gofrs/uuid v4.0.0+incompatible // indirect
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.6
@@ -80,7 +78,7 @@ require (
 	github.com/kubeapps/common v0.0.0-20200304064434-f6ba82e79f47
 	github.com/lib/pq v1.10.2
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/opencontainers/image-spec v1.0.1
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/pkg/errors v0.9.1
 	github.com/rs/cors v1.8.0 // indirect
 	github.com/sirupsen/logrus v1.8.1
